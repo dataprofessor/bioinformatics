@@ -1,2 +1,2 @@
-# Bioinformatics from Scratch
-
+# bioinformatics
+Bioinformatics stuff
